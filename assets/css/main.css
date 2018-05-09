@@ -2472,6 +2472,10 @@
 			.image.main img {
 				width: 100%;
 			}
+			.image.center {
+				display: block;
+				margin: 0 0 3em 0;
+\			}
 
 /* List */
 
